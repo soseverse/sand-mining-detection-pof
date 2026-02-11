@@ -1,4 +1,4 @@
-# sand-mining-detection-pof
+# VMD_SM Detection
 The major purpose of this project is to design a state-of-the-art deep learning model and implement it within an application framework to produce a highly accurate, real-time sand mining monitoring system for the Vietnamese Mekong Delta
 
 # Objectives
